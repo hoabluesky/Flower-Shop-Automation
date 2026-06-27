@@ -1,0 +1,9 @@
+pytest
+playwright
+pytest-playwright
+pytest-html
+requests
+
+
+
+
