@@ -129,7 +129,6 @@ The pipeline performs the following steps:
 2. Installs the Playwright Chromium browser.
 3. Executes the Pytest automation suite.
 4. Generates an HTML test report.
-5. Archives the generated report after execution.
 
 The pipeline configuration is stored in the repository as a `Jenkinsfile`, allowing the CI process to be version controlled together with the test automation framework.
 
